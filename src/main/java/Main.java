@@ -12,6 +12,6 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) throws IOException, TelegramApiException {
-        new MyTelegramBot("Java_free_course_bot", "7012810507:AAEEmGVKbvi0iFvQnbr5QzEtcQ40j5Fqvcc");
+        new MyTelegramBot("", "");
     }
 }
